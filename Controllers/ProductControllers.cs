@@ -18,15 +18,15 @@ namespace First.Controllers
 	public IEnumerable<Product> Get() => products;
 
 	[HttpGet("(id)")]
-	public IactionResult Get(int id)
+	public IActionResult Get(int id)
 	{
-	    var product = products.SingleOfDefault(p =>p.id ==id);
+	    var product = products.SingleOrDefault(p =>p.id ==id);
 	    
-	    if (product ==null)
+	    if (product == null)
 	    {
 		return NotFound();
 	    }
-	    return OK (procuct);
+	    return Ok(product);
 	}
 	
 
