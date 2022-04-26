@@ -1,7 +1,7 @@
 # WebApi
 WebApi dotnet
-Для запуску потрібно змінити адресу домена на ваш який знаходиться у папці Propertis/LaunchSettings.json
+<div>Для запуску потрібно змінити адресу домена на ваш який знаходиться  <b>Propertis/LaunchSettings.json</b></div>
 <b>applicationUrl:"Ваш Url"</b>
 <div>Для запуску проекту:<div>
-dotnet build
-dotner run
+<h1>dotnet build</h2>
+<h2>dotner run</h2>
