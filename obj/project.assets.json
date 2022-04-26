@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/root/dotnet/First/First.csproj",
+      "projectUniqueName": "/root/dotnet/WebApi/First.csproj",
       "projectName": "First",
-      "projectPath": "/root/dotnet/First/First.csproj",
+      "projectPath": "/root/dotnet/WebApi/First.csproj",
       "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/root/dotnet/First/obj/",
+      "outputPath": "/root/dotnet/WebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/root/.nuget/NuGet/NuGet.Config"
