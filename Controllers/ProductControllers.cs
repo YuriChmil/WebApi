@@ -15,7 +15,9 @@ namespace First.Controllers
 	});
 
 	[HttpGet]
+
 	public IEnumerable<Product> Get() => products;
+
 
 	[HttpGet("(id)")]
 	public IActionResult Get(int id)

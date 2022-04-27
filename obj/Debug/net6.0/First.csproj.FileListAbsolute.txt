@@ -51,3 +51,4 @@
 /root/dotnet/WebApi/obj/Debug/net6.0/First.pdb
 /root/dotnet/WebApi/obj/Debug/net6.0/First.genruntimeconfig.cache
 /root/dotnet/WebApi/obj/Debug/net6.0/ref/First.dll
+/root/dotnet/WebApi/bin/Debug/net6.0/Properties/Test.json
